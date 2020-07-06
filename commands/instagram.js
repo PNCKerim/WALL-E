@@ -20,12 +20,12 @@ module.exports = {
 
         let res;
 
-         try {
+        // try {
             res = await fetch(url).then(url => url.json());
-        } catch (e) {
-            return message.reply("I couldn't find that account... :(")
-                .then(m => m.delete(5000));
-        }
+       // } catch (e) {
+       //     return message.reply("I couldn't find that account... :(")
+       //         .then(m => m.delete(5000));
+        //}
 
         const account = res.graphql.user;
 
