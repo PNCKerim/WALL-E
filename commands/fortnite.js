@@ -1,6 +1,6 @@
 const { MessageEmbed } = require("discord.js");
 const ft = require('fortnite');
-const fortnite = new ft(process.env.FELINE);
+const fortnite = new ft(process.env.FOLINE);
 
 module.exports = {
   name: 'fortnite',
