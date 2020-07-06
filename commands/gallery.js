@@ -1,7 +1,7 @@
 const { MessageEmbed } = require("discord.js");
 const art = [
   'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg',
-  'https://lh3.googleusercontent.com/proxy/iaORMYLICxai8nw7BqpURX0Bfm-OVt0cItaUP4SQcOZRFUNJplOOWPyb4VjVTC63UyzpVEcjn5iqXZ4yeIXVZhcF9ypZNhOR24vRbA7zg5qzPzIFR3goeQSkztutRIGntPadn2HF4zfcVo74hKmmYCEEdMt3KUpb',
+  
   'https://www.kunstuitleengouda.nl/im9/998248.jpg',
   'https://www.alletop10lijstjes.nl/wp-content/uploads/2017/02/Compositie-2-in-Rood-Blauw-en-Geel.jpg',
   'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1200px-The_Night_Watch_-_HD.jpg',
